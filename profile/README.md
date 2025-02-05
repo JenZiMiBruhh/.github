@@ -7,7 +7,11 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 ## **🚀 Get Started**
 - [Download Files](https://github.com/JenZiMiBruhh/FootballGM)
 - Check out the **[Wiki](https://github.com/JenZiMiBruh/SportsGM/wiki)** for guides  
-- Stay updated with the **[Roadmap](https://github.com/JenZiMiBruh/SportsGM/projects/1)**  
+- Stay updated with the **[Roadmap](https://github.com/JenZiMiBruh/SportsGM/projects/1)**
+
+## **🔗 How to Get Involved**
+👥 **Follow me on GitHub & [Reddit](https://www.reddit.com/user/Jenzimibruh/) → Stay updated on all releases & commits
+⚡ **Join the Discussions** → Share ideas & suggestions  
 
 ---
 
@@ -38,12 +42,7 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 
 ---
 
-## **🔗 How to Get Involved**
-👥 **Follow me on GitHub & [Reddit](https://www.reddit.com/user/Jenzimibruh/) → Stay updated on all releases & commits
-⚡ **Join the Discussions** → Share ideas & suggestions  
-
-
-💬 **Have questions?** **Create an issue** or **reach out via GitHub Discussions! or Reddit u/JenZiMiBruh**  
+💬 **Have questions?** reach out via GitHub Discussions! or [Reddit](https://www.reddit.com/user/Jenzimibruh/)
 
 ---
 
@@ -53,12 +52,4 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 
 ---
 
-## **🚀 Get Started**
-- [Download Files](https://github.com/JenZiMiBruhh/FootballGM)
-- Check out the **[Wiki](https://github.com/JenZiMiBruh/SportsGM/wiki)** for guides  
-- Stay updated with the **[Roadmap](https://github.com/JenZiMiBruh/SportsGM/projects/1)**  
-
----
-
 # **🔥 LET’S BUILD THE BEST SPORTS SIM EXPERIENCE! 🔥**  
-🏆 **Welcome to JenZiMiBruh’s SportsGM Files!** 🏈🏀⚾🔥
