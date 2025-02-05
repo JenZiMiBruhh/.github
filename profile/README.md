@@ -39,7 +39,7 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 ---
 
 ## **🔗 How to Get Involved**
-👥 **Follow me on GitHub & Reddit u/JenZiMiBruh** → Stay updated on all releases & commits
+👥 **Follow me on GitHub & [Reddit](https://www.reddit.com/user/Jenzimibruh/) → Stay updated on all releases & commits
 ⚡ **Join the Discussions** → Share ideas & suggestions  
 
 
