@@ -20,7 +20,7 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 🚀 **NFFL – Nation Fast Food League** *(A fully customized football universe! 🍔🍟)*  
 🏀 **Upcoming Basketball & Baseball Projects** *(More leagues on the way!)*  
 
-### **📜 Draft Classes & Player Rosters**
+### **📜 Draft Classes & Player Rosters** --COMING SOON--
 👑 **Legendary & Fictional Players** *(From rappers to anime characters!)*  
 🎤 **Rapper Draft Class** *(Eminem, Tupac, Snoop, and more!)*  
 🎬 **Movie, TV, & Pop Culture Drafts** *(Cartoon stars, superheroes, and icons!)*  
