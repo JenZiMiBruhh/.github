@@ -5,7 +5,7 @@ This is the **home for all things SportsGM**, including custom leagues, draft cl
 ---
 
 ## **🚀 Get Started**
-- [Download Files](https://github.com/JenZiMiBruhh/FootballGM)
+- [Download Files](https://github.com/JenZiMiBruhh/FootballGMm)
 - Check out the **[Wiki](https://github.com/JenZiMiBruh/SportsGM/wiki)** for guides  
 - Stay updated with the **[Roadmap](https://github.com/JenZiMiBruh/SportsGM/projects/1)**
 
